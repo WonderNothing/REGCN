@@ -16,13 +16,17 @@ tensorflow = 1.15.0
 
 others
 # Data preprocessing
-##Step1 
-run data.py
-##step2
-run GA_VMD.py
-##step3
-run data_VMD.py
-##step4
-run adjprocessing.py
-##step5
-run normalization.py
+## Step1 
+run dataprecossing/data.py
+
+## step2
+run dataprecossing/GA_VMD.py
+
+## step3
+run dataprecossing/data_VMD.py
+
+## step4
+run dataprecossing/adjprocessing.py
+
+## step5
+run dataprecossing/normalization.py
